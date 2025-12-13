@@ -60,29 +60,21 @@ Achieve an A+ (90-100%) by delivering a professional, functional, and visually i
 ### Requirements
 - Python version: 3.10+
 - Required Libraries: `pathlib`, `xml.etree.ElementTree`, `matplotlib`
-- Optional (recommended): Create a virtual environment
 
 ### Setup Instructions
 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/bdo123/Project-4-.git
-    cd UMD-GameDay-Bites
+    cd Project-4-
     ```
 
-2. **(Optional) Create a virtual environment:**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # Linux/macOS
-    venv\Scripts\activate     # Windows
-    ```
-
-3. **Install dependencies:**
+2. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Run the project:**
+3. **Run the project:**
     ```bash
     python main.py
     ```
