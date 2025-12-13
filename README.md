@@ -66,7 +66,7 @@ Achieve an A+ (90-100%) by delivering a professional, functional, and visually i
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/UMD-GameDay-Bites.git
+    git clone https://github.com/bdo123/UMD-GameDay-Bites.git
     cd UMD-GameDay-Bites
     ```
 
